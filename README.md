@@ -1,2 +1,2 @@
 # seta.github.io
-seta webpage
+The hub of the international conferences on SEqueces and Their Applications.
